@@ -1,0 +1,11 @@
+title: "TokenMuse"
+description: "Decentralized AI, blockchain tokenization, and intuitive UI/UX for creative collaboration."
+theme: jekyll-theme-cayman
+
+# Plugins (optional)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# If you host at <username>.github.io/<repo>, uncomment and set your baseurl
+# baseurl: "/<repo>"
